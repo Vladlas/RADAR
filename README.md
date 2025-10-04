@@ -1,6 +1,8 @@
 # RADAR
+Перед запуском добавте 
+VSE_GPT_API_KEY=sk-or-vv-1a8dfaf4540f762b6c3297bda76e35360f21132ede51920cebc10796f1d6ccab
 
-Windows (PowerShell)
+1) Windows (PowerShell)
 py -3.11 -m venv .venv
 .venv\Scripts\Activate.ps1
 macOS / Linux
